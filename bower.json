@@ -1,0 +1,20 @@
+{
+  "name": "baitap",
+  "description": "du an fede",
+  "main": "index.js",
+  "authors": [
+    "MaiVinh"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/maivinh8799/baitap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
