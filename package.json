@@ -1,0 +1,22 @@
+{
+  "name": "baitap",
+  "version": "1.0.0",
+  "description": "du an fede",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maivinh8799/baitap.git"
+  },
+  "author": "MaiVinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maivinh8799/baitap/issues"
+  },
+  "homepage": "https://github.com/maivinh8799/baitap#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
